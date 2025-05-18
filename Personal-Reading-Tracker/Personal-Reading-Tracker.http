@@ -1,0 +1,6 @@
+@Personal_Reading_Tracker_HostAddress = http://localhost:5286
+
+GET {{Personal_Reading_Tracker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
